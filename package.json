@@ -11,7 +11,7 @@
     "eslint-config-mourner": "^3.0.0",
     "eslint-plugin-import": "^2.27.5",
     "http-server": "^14.1.1",
-    "husky": "^8.0.1",
+    "husky": "^9.0.10",
     "istanbul": "^0.4.5",
     "karma": "^6.4.1",
     "karma-chai": "^0.1.0",
